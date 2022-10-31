@@ -1,0 +1,95 @@
+- class_name: 友情鏈接
+  class_desc: 我的小伙伴们
+  link_list:
+    - name: 摸鱼派
+      link: https://fishpi.cn
+      avatar: https://fishpi.cn/images/favicon.png
+      descr: 专为程序员打造的摸鱼社区
+    - name: 贼拉正经的技术博客
+      link: https://www.stackoverflow.wiki
+      avatar: https://avatars1.githubusercontent.com/u/6754458?v=4
+      descr: 死钻技术 | 绝不抄袭
+    - name: 顾阑的的技术小站
+      link: https://www.inkdp.cn
+      avatar: https://avatars1.githubusercontent.com/u/23192332?v=4
+      descr: 凡打不倒我的，必使我强大！！！
+    - name: 邯城往事
+      link: https://www.cjzshilong.cn
+      avatar: https://avatars1.githubusercontent.com/u/48144475?v=4
+      descr: 记录精彩的坎坷人生，经营属于自己的世界！
+    - name: Frank笔记
+      link: https://frank2019.me
+      avatar: https://img.hacpai.com/avatar/1567567929066_1567591058303.jpeg?ima
+      descr: 记录蜕变后的生活
+    - name: JssDream 的个人博客
+      link: https://www.hjava.cn
+      avatar: https://avatars2.githubusercontent.com/u/24471999?v=4
+      descr: 静以修身，俭以养德
+    - name: 殆己
+      link: https://heycmm.cn
+      avatar: https://img.hacpai.com/avatar/1547633760829_1554865237301.jpeg
+      descr: 好看的皮囊扫黄打非，有趣的灵魂涉嫌违规。
+    - name: 傅皮蛋儿
+      link: https://blog.fpdan.cn/
+      avatar: https://b3logfile.com/avatar/1590022388205_1590060052984.jpeg
+      descr: 无人问津的自留地》》》
+    - name: 糖醋鱼的小破站
+      link: https://expoli.tech
+      avatar: https://avatars.githubusercontent.com/u/31023767?v=4
+      descr: 鱼生成长记
+    - name: HunYqh
+      link: https://iamwaiting.cn/
+      avatar: https://yurl.icu/jqqYni
+      descr: Be profound  be funny  or  be quiet .
+    - name: 长安城下
+      link: https://cacx.cc
+      avatar: https://cacx.cc/usr/images/9666.jpg
+      descr: 大雁塔上唐僧梦·长安城下女儿情
+    - name: YuZhangWang的领域
+      link: https://www.yuzhang.wang
+      avatar: https://fastly.jsdelivr.net/gh/YuZhangWang/Creative_pictures01@main/img/20210907012640.png
+      descr: 两岸猿声啼不住 轻舟已过万重山
+    - name: 风记星辰
+      link: https://www.thyuu.com
+      avatar: https://std.thyuu.com/logo.png
+      descr: 分享生活 · 留下感动
+    #- name: 深海小屋
+    #  link: https://deepsea.work/
+    #  avatar: https://gitee.com/starfall-dust/tuchuang/raw/master/img/202108281334241.jpg
+    #  descr: 钻之深，易沉海；钻之潜，易往初
+    - name: 犹念觏止
+      link: https://aeneag.xyz
+      avatar: https://b3logfile.com/file/2021/11/WechatIMG320-874dadbf.jpeg
+      descr: 公众号：技术乱舞
+    - name: Jeffrey的博客
+      link: https://www.yejiefeng.com/
+      avatar: https://b3logfile.com/avatar/1564713863595_1577810552225.jpeg
+      descr: 左脑编程，右脑写诗
+    - name: 蓝泽
+      link: http://lanze.top
+      avatar: https://gitee.com/lanweixiao/Blogpbed/raw/master/img/header.jpg
+      descr: 你在想什么
+    - name: 咕咕咕
+      link: https://cooooing.github.io/
+      avatar: https://s1.ax1x.com/2022/03/13/bqyIpT.jpg
+      descr: 路漫漫其修远兮，吾将上下而求索。
+    - name: ghostsf
+      link: https://ghostsf.com
+      avatar: https://ghostsf.com/logo
+      descr: Do what i love and just do it !
+    - name: 三月柳絮四月雨
+      link: https://lemon-cxh.github.io/
+      avatar: https://lemon-cxh.github.io/images/avatar.jpg
+      descr: 要做一个不动声色的大人了
+    - name: ncc的个人网站
+      link: https://www.zqcnc.cn
+      avatar: https://www.zqcnc.cn/favicon.ico
+      descr: keep trying!
+    - name: 茂茂の部落格
+      link: https://maolog.com
+      avatar: https://maolog.com/upload/2022/02/MAOLOG-4dc2e814be184b599a5e25156aa875a6.png
+      descr: 日常记录和吐槽
+    # - name: 小黑娃动画
+    #   link: http://xiaoheiwa.com.cn/
+    #   avatar: http://xiaoheiwa.com.cn/zb_users/upload/2022/08/202208231661248821151662.jpg
+    #   descr: 从小梦想做一部动画片，不知不觉几十年过去了，一直没放下，终于决定，现在开始动工了。希望和每位追梦人成为朋友！
